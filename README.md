@@ -5,4 +5,4 @@
 2. Change first_email="your_letter_you_want (example : thinh2) $counter"
 3. Run script use command `./bash.sh`
  
-<img src="./logo.png?raw=true">
+<img src="./1.png?raw=true">
